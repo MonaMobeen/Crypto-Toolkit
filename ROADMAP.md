@@ -33,54 +33,56 @@
     - StringBuilder in java
 
 - Maths for DSA
-Introduction
-Complete Bitwise Operators
-Prime numbers
-HCF / LCM
-Sieve of Eratosthenes
-Newton's Square Root Method
-Number Theory
-Euclidean algorithm
-Advanced Concepts for CP (later in the course)
-Bitwise + DP
-Extended Euclidean algorithm
-Modulo Properties
-Modulo Multiplicative Inverse
-Linear Diophantine Equations
-Fermat’s Theorem
-Wilson's Theorem
-Lucas Theorem
-Chinese Remainder Theorem
-Functions
+        - Introduction
+        - Complete Bitwise Operators
+        - Prime numbers
+        - HCF / LCM
+        - Sieve of Eratosthenes
+        - Newton's Square Root Method
+        - Number Theory
+        - Euclidean algorithm
+        - Advanced Concepts for CP (later in the course)
+        - Bitwise + DP
+        - Extended Euclidean algorithm
+        - Modulo Properties
+        - Modulo Multiplicative Inverse
+        - Linear Diophantine Equations
+        - Fermat’s Theorem
+        - Wilson's Theorem
+        - Lucas Theorem
+        - Chinese Remainder Theorem
+        
+- Functions
+        - Introduction
+        - Solving the above math problems in code
+        - Scoping in Java
+        - Shadowing
+        - Variable Length Arguments
+        
+     
+- Recursion
 
-Introduction
-Solving the above math problems in code
-Scoping in Java
-Shadowing
-Variable Length Arguments
-(more content in OOP such as overloading etc)
-Recursion
-
-Introduction
-Why recursion?
-Flow of recursive programs - stacks
-Convert recursion to iteration
-Tree building of function calls
-Tail recursion
-Sorting:
-Merge Sort
-Quick Sort
-Cyclic Sort
-Backtracking
-Sudoku Solver
-N-Queens
-N-Knights
-Maze problems
-Recursion String Problems
-Recursion Array Problems
-Recursion Pattern Problems
-Subset Questions
-Space and Time Complexity Analysis
+        - Introduction
+        - Why recursion?
+        - Flow of recursive programs - stacks
+        - Convert recursion to iteration
+        - Tree building of function calls
+        - Tail recursion
+- Sorting:
+        - Merge Sort
+        - Quick Sort
+        - Cyclic Sort
+- Backtracking
+        - Sudoku Solver
+        - N-Queens
+        - N-Knights
+        - Maze problems
+        - Recursion String Problems
+        - Recursion Array Problems
+        - Recursion Pattern Problems
+        - Subset Questions
+        
+- Space and Time Complexity Analysis
 
 Introduction
 Comparisons of various cases
