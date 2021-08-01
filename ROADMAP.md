@@ -1,3 +1,5 @@
+<img  src="https://static-fastly.hackerearth.com/static/hackerearth/images/marketing/algorithm_blog/algo-og.jpg" width="100%">
+
 1. [Introduction to Git](https://www.youtube.com/watch?v=apGV9Kg7ics)
 2. Introduction to Programming
 - Types of languages
