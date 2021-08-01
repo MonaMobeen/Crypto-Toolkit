@@ -1,5 +1,4 @@
-1. Introduction to Git
-
+1. [Introduction to Git](https://www.youtube.com/watch?v=apGV9Kg7ics)
 2. Introduction to Programming
 - Types of languages
 - Flowcharts & Pseudocode
