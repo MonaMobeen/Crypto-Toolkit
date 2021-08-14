@@ -6,7 +6,7 @@
 2. Before doing any changes to the repo, create your own branch so that it will be easy for us to maintain.
 2. Every week we'll be posting 6-7 questions inside the **/Questions** folder inside the **questions.md** file.
    These questions will be classified into different levels of difficulties.
-3. In order to submit the solution to the respective questions, you need to create a .md file for that particular question inside the **/solutions** folder. Say, you want to post the solution to question 1 in java, create a file named **solution1(java).md**. The naming convention is **solution<number>.(<language>).md**
+3. In order to submit the solution to the respective questions, you need to create a .md file for that particular question inside the **/solutions** folder. Say, you want to post the solution to question 1 in java, create a file named **solution_1(java).md**. The naming convention is **solution_number(your_language).md**
 4. Lastly, you need to push your code from your branch. Obviously, you can write in the programming language of your choice.
 5. The solution with the best time and space complexity will be merged into the main branch.
 
