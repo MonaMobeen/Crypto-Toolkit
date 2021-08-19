@@ -1,4 +1,4 @@
-<h1 align="center">DSA & Competitve Programming</h1>
+<h1 align="center">DSA and Competitve Programming</h1>
 
 ### Why companies like Amazon, Microsoft, Google focuses on Data Structures and Algorithms
 
