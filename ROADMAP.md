@@ -7,7 +7,7 @@
 - Flow of the program
 - Time & Space Complexity
 
-3. Basics of Java
+3. [Basics of Java](https://www.javatpoint.com/java-tutorial)
 - Array
     - Introduction
     - Memory management
@@ -84,112 +84,109 @@
     - Subset Questions
         
 - Space and Time Complexity Analysis
+    - Introduction
+    - Comparisons of various cases
+    - Solving Linear Recurrence Relations
+    - Solving Divide and Conquer Recurrence Relations
+    - Big-O, Big-Omega, Big-Theta Notations
+    - Get equation of any relation easily - best and easiest approach
+    - Complexity discussion of all the problems we do
+    - Space Complexity
+    - Memory Allocation of various languages
+    - NP-Completeness and Hardness
 
-Introduction
-Comparisons of various cases
-Solving Linear Recurrence Relations
-Solving Divide and Conquer Recurrence Relations
-Big-O, Big-Omega, Big-Theta Notations
-Get equation of any relation easily - best and easiest approach
-Complexity discussion of all the problems we do
-Space Complexity
-Memory Allocation of various languages
-NP-Completeness and Hardness
-Object Oriented Programming
+- Object Oriented Programming
+    - Introduction
+    - Classes & its instances
+    - this keyword in Java
+    - Properties
+    - Inheritance
+    - Abstraction
+    - Polymorphism
+    - Encapsulation
+    - Overloading & Overriding
+    - Static & Non-Static
+    - Access Control
+    - Interfaces
+    - Abstract Classes
+    - Singleton Class
+    - final, finalize, finally
+    - Exception Handling
 
-Introduction
-Classes & its instances
-this keyword in Java
-Properties
-Inheritance
-Abstraction
-Polymorphism
-Encapsulation
-Overloading & Overriding
-Static & Non-Static
-Access Control
-Interfaces
-Abstract Classes
-Singleton Class
-final, finalize, finally
-Exception Handling
-Stacks & Queues
+- Stacks & Queues
+    - Introduction
+    - Interview problems
+    - Push efficient
+    - Pop efficient
+    - Queue using Stack and Vice versa
+    - Circular Queue
 
-Introduction
-Interview problems
-Push efficient
-Pop efficient
-Queue using Stack and Vice versa
-Circular Queue
-Linked List
+- Linked List
+    - Introduction
+    - Fast and slow pointer
+    - Cycle Detection
+    - Single and Doubly LinkedList
+    - Reversal of LinkedList
 
-Introduction
-Fast and slow pointer
-Cycle Detection
-Single and Doubly LinkedList
-Reversal of LinkedList
-Dynamic Programming
+- Dynamic Programming
+    - Introduction
+    - Recursion + Recursion DP + Iteration + Iteration Space Optimized
+    - Complexity Analysis
+    - 0/1 Knapsack
+    - Subset Questions
+    - Unbounded Knapsack
+    - Subsequence questions
+    - String DP
 
-Introduction
-Recursion + Recursion DP + Iteration + Iteration Space Optimized
-Complexity Analysis
-0/1 Knapsack
-Subset Questions
-Unbounded Knapsack
-Subsequence questions
-String DP
-Trees
+- Trees
+    - Introduction
+    - Binary Trees
+    - Binary Search Trees
+    - DFS
+    - BFS
+    - AVL Trees
+    - Segment Tree
+    - Fenwick Tree / Binary Indexed Tree
+    - Square Root Decomposition
 
-Introduction
-Binary Trees
-Binary Search Trees
-DFS
-BFS
-AVL Trees
-Segment Tree
-Fenwick Tree / Binary Indexed Tree
-Square Root Decomposition
+- Heaps
+    - Introduction
+    - Theory
+    - Priority Queue
+    - Two Heaps Method
+    - k-way merge
+    - top k elements
+    - interval problems
 
-Heaps
+- HashMap
+    - Introduction
+    - Theory - how it works
+    - Comparisons of various forms
+    - Limitations and how to solve
+    - Map using LinkedList
+    - Map using Hash
+    - Chaining
+    - Probing
+    - Huffman-Encoder
+    - Tries
 
-Introduction
-Theory
-Priority Queue
-Two Heaps Method
-k-way merge
-top k elements
-interval problems
-HashMap
-
-Introduction
-Theory - how it works
-Comparisons of various forms
-Limitations and how to solve
-Map using LinkedList
-Map using Hash
-Chaining
-Probing
-Huffman-Encoder
-Tries
-
-Graphs
-
-Introduction
-BFS
-DFS
-Working with graph components
-Minimum Spanning Trees
-Kruskal Algorithm
-Prims Algorithm
-Dijkstra’s shortest path algorithm
-Topological Sort
-Bellman ford
-A* pathfinding Algorithm
+- Graphs
+    - Introduction
+    - BFS
+    - DFS
+    - Working with graph components
+    - Minimum Spanning Trees
+    - Kruskal Algorithm
+    - Prims Algorithm
+    - Dijkstra’s shortest path algorithm
+    - Topological Sort
+    - Bellman ford
+    - A* pathfinding Algorithm
 
 ### What basic data structures and algorithms should one learn before starting competitive programming?
 
 1. Basic data sturctures (arrays, queues, linked lists, etc.).
-2. Bit manipulation.
+2. [Bit manipulation.](https://www.youtube.com/watch?v=5rtVTYAk9KQ&t)
 3. Advanced data structures:
 - Union-Find Disjoint Sets.
 - Segment Tree.
