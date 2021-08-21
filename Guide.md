@@ -11,7 +11,7 @@
 5. The solution with the best time and space complexity will be merged into the original repository.
 
 
-**Important** - Every now and then, usually before creating a pull request to post your solutions, please create a reverse pull request(i,e, keep base repo as your forked one and the head repo as the CODE++ original repo) so that your forked repo gets updated wrt original repo.
+**Important** - Every now and then, usually before creating a pull request to post your solutions, please create a reverse pull request(i,e, keep base repo as your forked one and the head repo as the CODE++ original repo) so that your forked repo gets updated wrt original repo. Or, you can simply click on Fetch upstream in your forked repo.
 
 **Note** - We encourage you to explain your code also(inside the .md file itself) in your words so that it'll be easy for others to understand.
 
