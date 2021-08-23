@@ -11,10 +11,6 @@ long long int m;cin>>m;
 
     int * arr = new int[m];
 
-#### initialised min element with INT_MAX and max with INT_MIN
-
-    int min = INT_MAX,max = INT_MIN;
-
 #### for loop to take in array elements  
 
     for(long long int i=0;i<m;i++){
@@ -23,7 +19,7 @@ long long int m;cin>>m;
 
 #### for loop to swap i with (m-1-i)th element
 
-    for(long long int i=0,j=m-1;i<=j;i++,j--){
+    for(long long int i=0,j=m-1;i<j;i++,j--){
     int temp = arr[i];
     arr[i]=arr[j];
     arr[j]=temp;
