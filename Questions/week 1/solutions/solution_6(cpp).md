@@ -9,7 +9,7 @@ long long int n;cin>>n;
 
 #### set is declared
 
-set <long long int> st;
+set < long long int > st;
 
 #### for loop to take in elements and store in set
 
