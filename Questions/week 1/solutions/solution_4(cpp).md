@@ -1,11 +1,11 @@
-#include <bits/stdc++.h>
-using namespace std;
+    #include <bits/stdc++.h>
+    using namespace std;
 
-int main(){
+    int main(){
 
 #### array size taken as input and stored in m
 
-long long int m;cin>>m;
+    long long int m;cin>>m;
 
 #### array of size n is declared dynamically
 
@@ -32,5 +32,5 @@ long long int m;cin>>m;
     }
     cout<<endl;
 
-return 0;
-}
+    return 0;
+    }
