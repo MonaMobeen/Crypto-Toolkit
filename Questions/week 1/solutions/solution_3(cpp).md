@@ -1,9 +1,8 @@
 
+    #include <bits/stdc++.h>
+    using namespace std;
 
-#include <bits/stdc++.h>
-using namespace std;
-
-int main(){
+    int main(){
 
 #### array size taken as input and stored in m
 
@@ -32,10 +31,10 @@ int main(){
     min=arr[i];
     }
 
-}
+    }
 
-cout<<max<<endl;
-cout<<min<<endl;
+    cout<<max<<endl;
+    cout<<min<<endl;
 
-return 0;
-}
+    return 0;
+    }
