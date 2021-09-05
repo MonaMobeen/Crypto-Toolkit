@@ -2,7 +2,7 @@
 using namespace std;
 
 void insertionSort(int * a, int n){
-	for(int i=0;i<n;i++){
+	for(int i=1;i<n;i++){
 		int j;
 		int k = a[i];
 		for(j=i-1;j>=0 && a[j]>k ;j--){
