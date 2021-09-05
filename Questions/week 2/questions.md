@@ -1,4 +1,4 @@
-<h1 align="center">Week 1</h1>
+<h1 align="center">Week 2</h1>
 
 ### Easy
 
