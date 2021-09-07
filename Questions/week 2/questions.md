@@ -28,9 +28,9 @@
 
 5. Quick Sort an array.
 
-  (https://www.geeksforgeeks.org/quick-sort/)
+   (https://www.geeksforgeeks.org/quick-sort/)
   
-  (https://www.youtube.com/watch?v=7h1s2SojIRw)
+   (https://www.youtube.com/watch?v=7h1s2SojIRw)
 
 ### Medium
 
