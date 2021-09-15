@@ -2,7 +2,7 @@
 
   WHILE(MID<=HIGH)
    when arr[mid]==0
-   do : swap(arr[low],arr[high])
+   do : swap(arr[low],arr[mid])
         mid++,low++
 
 	when arr[mid]==1
@@ -10,8 +10,7 @@
 
   when arr[mid]==2
   do : swap(arr[high],arr[mid])
-       mid++
-	   low--
+       high--
 
 
 */
